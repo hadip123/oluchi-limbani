@@ -1,2 +1,3 @@
-# oluchi-limbani
-Oluchi Limbani Checker, Powerful vpn panel checker
+# Oluchi Limbani Checker (OLC)
+
+### Linux, Android, Windows
